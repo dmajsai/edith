@@ -1,13 +1,6 @@
+/* Display font — placeholder cursive (swap for custom font when ready) */
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=Inter:wght@300;400;500;600&display=swap');
-
-/* BeauRivage — custom display font for logo & section titles */
-@font-face {
-  font-family: 'BeauRivage';
-  src: url('/font/BeauRivage-Regular.ttf') format('truetype');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
 
 @tailwind base;
 @tailwind components;
@@ -43,8 +36,8 @@
   --text-lighter:  #c0d0e8;
   --text-dark:     #0a1628;
   --text-muted-l:  #8fa8c8;
-  /* BeauRivage — custom display font (logo & section titles) */
-  --font-display-family: "BeauRivage", cursive;
+  /* Display font family — swap value when custom font is ready */
+  --font-display-family: "WindSong", cursive;
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }

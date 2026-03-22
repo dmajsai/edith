@@ -751,11 +751,8 @@ function GyikSection() {
     <section id="gyik" className="section-padding" style={{ background: "var(--midnight)" }}>
       <div ref={ref} className={`max-w-3xl mx-auto fade-up ${visible ? "is-visible" : ""}`}>
         <div className="text-center mb-14">
-          <span className="eyebrow">Vízi temetés</span>
+          <span className="eyebrow">Kérdések</span>
           <h2 className="font-display text-4xl md:text-5xl text-[#f5f9ff] mt-2">Gyakran Ismételt Kérdések</h2>
-          <p className="font-cormorant italic text-lg text-[#8fa8c8] mt-4 max-w-xl mx-auto">
-            Minden, amit a hajós és vízi búcsúztatásról tudni érdemes.
-          </p>
         </div>
 
         <div className="space-y-3">
