@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/8fa0d6ac72b365c3.css","style"]
+:HL["/_next/static/media/BeauRivage_Regular-s.p.d592ac2a.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap","style"]
+0:{"buildId":"FoTvAFzvXUZMOJDNQCh9Y","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
